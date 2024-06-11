@@ -1,0 +1,22 @@
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Patrones\Paint\LineLibrary\bin\Debug\net8.0\LineLibrary.deps.json
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Patrones\Paint\LineLibrary\bin\Debug\net8.0\LineLibrary.dll
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Patrones\Paint\LineLibrary\bin\Debug\net8.0\LineLibrary.pdb
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Patrones\Paint\LineLibrary\obj\Debug\net8.0\LineLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Patrones\Paint\LineLibrary\obj\Debug\net8.0\LineLibrary.AssemblyInfoInputs.cache
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Patrones\Paint\LineLibrary\obj\Debug\net8.0\LineLibrary.AssemblyInfo.cs
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Patrones\Paint\LineLibrary\obj\Debug\net8.0\LineLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Patrones\Paint\LineLibrary\obj\Debug\net8.0\LineLibrary.dll
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Patrones\Paint\LineLibrary\obj\Debug\net8.0\refint\LineLibrary.dll
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Patrones\Paint\LineLibrary\obj\Debug\net8.0\LineLibrary.pdb
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Patrones\Paint\LineLibrary\obj\Debug\net8.0\ref\LineLibrary.dll
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Semanales\Paint\Paint\LineLibrary\bin\Debug\net8.0\LineLibrary.deps.json
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Semanales\Paint\Paint\LineLibrary\bin\Debug\net8.0\LineLibrary.dll
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Semanales\Paint\Paint\LineLibrary\bin\Debug\net8.0\LineLibrary.pdb
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Semanales\Paint\Paint\LineLibrary\obj\Debug\net8.0\LineLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Semanales\Paint\Paint\LineLibrary\obj\Debug\net8.0\LineLibrary.AssemblyInfoInputs.cache
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Semanales\Paint\Paint\LineLibrary\obj\Debug\net8.0\LineLibrary.AssemblyInfo.cs
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Semanales\Paint\Paint\LineLibrary\obj\Debug\net8.0\LineLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Semanales\Paint\Paint\LineLibrary\obj\Debug\net8.0\LineLibrary.dll
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Semanales\Paint\Paint\LineLibrary\obj\Debug\net8.0\refint\LineLibrary.dll
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Semanales\Paint\Paint\LineLibrary\obj\Debug\net8.0\LineLibrary.pdb
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Semanales\Paint\Paint\LineLibrary\obj\Debug\net8.0\ref\LineLibrary.dll

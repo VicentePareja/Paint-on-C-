@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Vicente Pareja\\Desktop\\Universidad\\2024\\Semetre 1\\Diseño detallado\\Semanales\\Paint\\Paint\\Paint\\Paint.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Vicente Pareja\\Desktop\\Universidad\\2024\\Semetre 1\\Diseño detallado\\Semanales\\Paint\\Paint\\LineLibrary\\LineLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vicente Pareja\\Desktop\\Universidad\\2024\\Semetre 1\\Diseño detallado\\Semanales\\Paint\\Paint\\LineLibrary\\LineLibrary.csproj",
+        "projectName": "LineLibrary",
+        "projectPath": "C:\\Users\\Vicente Pareja\\Desktop\\Universidad\\2024\\Semetre 1\\Diseño detallado\\Semanales\\Paint\\Paint\\LineLibrary\\LineLibrary.csproj",
+        "packagesPath": "C:\\Users\\Vicente Pareja\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vicente Pareja\\Desktop\\Universidad\\2024\\Semetre 1\\Diseño detallado\\Semanales\\Paint\\Paint\\LineLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vicente Pareja\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Vicente Pareja\\Desktop\\Universidad\\2024\\Semetre 1\\Diseño detallado\\Semanales\\Paint\\Paint\\Paint\\Paint.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vicente Pareja\\Desktop\\Universidad\\2024\\Semetre 1\\Diseño detallado\\Semanales\\Paint\\Paint\\Paint\\Paint.csproj",
+        "projectName": "Paint",
+        "projectPath": "C:\\Users\\Vicente Pareja\\Desktop\\Universidad\\2024\\Semetre 1\\Diseño detallado\\Semanales\\Paint\\Paint\\Paint\\Paint.csproj",
+        "packagesPath": "C:\\Users\\Vicente Pareja\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vicente Pareja\\Desktop\\Universidad\\2024\\Semetre 1\\Diseño detallado\\Semanales\\Paint\\Paint\\Paint\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vicente Pareja\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Vicente Pareja\\Desktop\\Universidad\\2024\\Semetre 1\\Diseño detallado\\Semanales\\Paint\\Paint\\LineLibrary\\LineLibrary.csproj": {
+                "projectPath": "C:\\Users\\Vicente Pareja\\Desktop\\Universidad\\2024\\Semetre 1\\Diseño detallado\\Semanales\\Paint\\Paint\\LineLibrary\\LineLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[9.0.0-preview.1.24081.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

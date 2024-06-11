@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "dgSpecHash": "GKye6etHZk0wLOycDr1IeSJhMeWMcti/uHxTfEudIWcFcLL2jq0SgMA+//YHrN2QofzbaxLvL0+UlDC3x8WgQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vicente Pareja\\Desktop\\Universidad\\2024\\Semetre 1\\Diseño detallado\\Semanales\\Paint\\Paint\\Paint\\Paint.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vicente Pareja\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.0-preview.1.24080.9\\microsoft.win32.systemevents.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "C:\\Users\\Vicente Pareja\\.nuget\\packages\\sixlabors.imagesharp\\3.1.2\\sixlabors.imagesharp.3.1.2.nupkg.sha512",
+    "C:\\Users\\Vicente Pareja\\.nuget\\packages\\system.drawing.common\\9.0.0-preview.1.24081.2\\system.drawing.common.9.0.0-preview.1.24081.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SixLabors.ImageSharp' 3.1.2 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-5x7m-6737-26cr",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SixLabors.ImageSharp' 3.1.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-65x7-c272-7g7r",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SixLabors.ImageSharp' 3.1.2 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-g85r-6x2q-45w7",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
